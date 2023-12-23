@@ -1,5 +1,5 @@
 
-# 💻 Hi, I'm Abdulhadi ! 👋
+# 💻 Hi, I'm Abdulhady ! 👋
 I am a Computer Science junior student at Nile University, passionate about front-end development. I have experience in various programming languages including Python, C++, Java, HTML, CSS, JavaScript, and Dart.
 ## 🚀 About Me
 I'm an aspiring front-end developer with a strong foundation in web development technologies. I enjoy creating visually appealing and user-friendly websites and applications.
